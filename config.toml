@@ -1,4 +1,20 @@
-baseURL = "http://example.org/"
+baseURL = "http://localhost:1313/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Hicaa"
 theme = "ananke"
+
+[languages]
+  [languages.en]
+    title = "Hicaa"
+    weight = 1
+    contentDir = "content/en"
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "匠心制茶 不将就"
+  background_color_class = "bg-orange"
+
+custom_css = ["css/bubbletea.css"]
