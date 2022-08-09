@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://annbelievable.github.io/bubbletea"
 languageCode = "en-us"
 title = "Hicaa"
 theme = "ananke"
